@@ -1,2 +1,2 @@
 # mycdn
-免费cdn
+jsDeliver Cdn
